@@ -1,5 +1,5 @@
 import Reat from "react";
-import {StyleSheet, Text, FlatList}from "react-native";
+import {StyleSheet, FlatList}from "react-native";
 import PokemonCard from "./PokemonCard";
  
 export default function PokemonList(props){
