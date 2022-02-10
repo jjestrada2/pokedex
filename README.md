@@ -10,6 +10,9 @@
 
 > Pokedex is a react native app that consume an API with all the pokemons in the whole world, in the app you can look the description of each pokemon a picture and also you can save it in your favorite pokemons.
 
+## View
+![image](https://user-images.githubusercontent.com/69777842/153510292-f4a89720-0aab-441e-b9b7-333f23daf0fc.png)
+
 ## Usage
 
 ```sh
