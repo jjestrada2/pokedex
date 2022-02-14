@@ -31,6 +31,12 @@ npm run start
 
 Give a ⭐️ if this project helped you!
 
+## Tecnologies implemented
+  Yup
+  Formik
+  React Native Aync Storage
+
+Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Juan Jose Estrada](https://github.com/jjestrada2).<br />
