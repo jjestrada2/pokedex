@@ -1,46 +1,85 @@
-<h1 align="center">Welcome to pokedex 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/pokedex" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/pokedex.svg">
-  </a>
-  <a href="https://opensource.org/licenses/MIT" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+# Pokedex🐒
 
-> Pokedex is a react native app that consume an API with all the pokemons in the whole world, in the app you can look the description of each pokemon a picture and also you can save it in your favorite pokemons.
+Pokedex is a React Native app built with Expo that allows users to explore and manage their favorite Pokémon. The app consumes a Pokémon API to provide detailed information about each Pokémon, including descriptions and images. Users can also save Pokémon to their favorites for quick access.
 
-## View
+## View🐲
 ![image](https://user-images.githubusercontent.com/69777842/153510292-f4a89720-0aab-441e-b9b7-333f23daf0fc.png)
 
-## Usage
 
-```sh
-npm run start
-```
+## Table of Contents🤗
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Technologies Used](#technologies-used)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Credits](#credits)
+9. [Contact](#contact)
 
-## Author
+## Description🙌
 
-👤 **Juan Jose Estrada**
+Pokedex is a mobile application developed using React Native and Expo. It provides a comprehensive list of Pokémon from an API, allowing users to view detailed information, images, and manage their favorite Pokémon. 
 
-* Website: https://juanjoseestrada.com
-* Github: [@jjestrada2](https://github.com/jjestrada2)
-* LinkedIn: [@linkedin.com\/in\/juan-jose-estrada-b244471b4](https://linkedin.com/in/linkedin.com\/in\/juan-jose-estrada-b244471b4)
+## Installation🐢
 
-## Show your support
+To get the app up and running on your local machine, follow these steps:
 
-Give a ⭐️ if this project helped you!
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/pokedex.git
+    ```
 
-## Tecnologies implemented
-  Yup
-  Formik
-  React Native Aync Storage
+2. **Navigate to the project directory:**
+    ```bash
+    cd pokedex
+    ```
 
-Give a ⭐️ if this project helped you!
-## 📝 License
+3. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-Copyright © 2022 [Juan Jose Estrada](https://github.com/jjestrada2).<br />
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+4. **Start the development server:**
+    ```bash
+    expo start
+    ```
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+5. **Open the app:**
+   - Use the Expo Go app to scan the QR code displayed in your terminal or browser to view the app on your mobile device.
+
+## Usage🎮
+
+Once the development server is running, you can explore the app on your device. Use the navigation to:
+
+- **Browse Pokémon:** View a list of all Pokémon, including their images and descriptions.
+- **Favorite Pokémon:** Save Pokémon to your favorites for easy access.
+
+## Features🦸‍♂️
+
+- **Comprehensive Pokémon List:** Access detailed information and images for every Pokémon.
+- **Favorites:** Save and manage your favorite Pokémon.
+- **Search Functionality:** Quickly find Pokémon using search and filter options.
+
+## Technologies Used🏋️
+
+- **React Native:** For building the mobile app.
+- **Expo:** For managing the development workflow and building the app.
+- **Pokémon API:** For fetching Pokémon data.
+
+## Contributing🙇‍♂️
+
+Contributions are welcome! To contribute, please fork the repository and create a pull request with your changes. Ensure that you follow the coding standards and include appropriate tests.
+
+## License📜
+
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+
+## Credits🔥
+
+- [Juan Estrada](https://github.com/jjestrada2) - Developer of this project.
+
+## Contact🦻
+
+For support or inquiries, please contact [Juan Estrada](mailto:juan5801331@gmail.com).
+
